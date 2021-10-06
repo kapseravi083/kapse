@@ -7,5 +7,5 @@ void addtwo()
 }
 void main()
 {
-
+   addtwo();
 }
